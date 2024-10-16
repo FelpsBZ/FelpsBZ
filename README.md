@@ -14,7 +14,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<div aling="center"> 
+<div align-items="center"> 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=FelpsBZ&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
