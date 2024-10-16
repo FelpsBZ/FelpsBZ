@@ -1,4 +1,4 @@
-
+<div aling-items:"center">
 # 💻 Tech Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
@@ -26,3 +26,5 @@
 [![](https://visitcount.itsvg.in/api?id=FelpsBZ&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
